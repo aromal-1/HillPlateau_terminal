@@ -395,10 +395,13 @@ FRAMING , DESTINATION : <[Maesters ? [MI] , [PH.D] [ E]\E-learns\]>
 injuring check case : Type.c == is'hot-[WP = 'work-place' : strong-without: pass, filter]'
 ]}
  
-"wokset[£U.union(LG)]BT{Exam by pronouns} , fintax: <Checkering ,[By state , Dues : unmatched()]>]]]]]] //Prior.Esc(Build : A , X-(exit !== Provoked['QI', response]))
+"wokset[£U.union(LG)]BT{Exam by pronouns} , fintax: <Checkering ,[By state , Dues : unmatched()]>]]]]]] 
+//Prior.Esc(Build : A , X-(exit !== Provoked['QI', response]))
 Union-scripts : Community : auto //I-checkering : Pan-o[OB: J{$ : 'Pem'} : mark_g :Gems()] 
-[K : builter-[inns(V.velcro.[n-jobs])]] || inns(Con(va : 'tip' : bland(Covec(2 : <MN.(BALANCE)>)))) //C_tech : Builder()
-Viv(n : Covec[2: cov : valence : C-n:v.[EE : 'status-A'.fin(+e. [Dork : a-chir(~os.a == 'status')])]]) //Gir ~fi.o == Blastfins./
+[K : builter-[inns(V.velcro.[n-jobs])]] || inns(Con(va : 'tip' : bland(Covec(2 : <MN.(BALANCE)>)))) 
+//C_tech : Builder()
+Viv(n : Covec[2: cov : valence : C-n:v.[EE : 'status-A'.fin(+e. [Dork : a-chir(~os.a == 'status')])]]) 
+//Gir ~fi.o == Blastfins./(phish-check = CWE['max' : filter(a.productions , finder(*selector == 'pool_frequencies'))])
 [Fond-set + [./Mins +h(Deliver + [i.o == [Quote('thankyou Selections')]])]] //Quote(O-max)
 
 
