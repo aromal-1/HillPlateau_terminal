@@ -5,9 +5,9 @@ offer parags:
 Sargema , ROM  : ROM :  cp ? OSrave L'; [] Jhavled [j-join/mp] 
      'uvcon m' [] memset,vnc Private(ban l) [Bunglaow(!,@,#,%,!@,*), Access = 'bash' , Syntax  = tax, Overcome = bask , true = sunlight://] 
      ,m Potterm [Harry_daugher ,'Gifted' , Sift-Morrows like Rippled! T<Template>[S:Guides{Old 'fallacies & Continuing Descrepancies' , 'Head-Overlane'}]]p true_main , ]Ip counterfeit-n Sql  ]
-      [  welcome call , [] cater-c  l  ]'  r- brac {} nm - silvia l  [] '  p portl  p[]  your-sum , derivativel []  limit0 [] " sns.(data_dump(**fir) : Woodern_c: 'cadent_p' : cac-dex: `sort: [Num: port: 8080]) //start-dust : (local:bim)-hm(tax)
+      [  welcome call , [] cater-c  l  ]'  r- brac{} nm - silvia l  [] '  p portl  p[]  your-sum , derivativel []  limit0 [] " sns.(data_dump(**fir) : Woodern_c: 'cadent_p' : cac-dex: `sort: [Num: port: 8080]) //start-dust : (local:bim)-hm(tax)
      : Sorter.(AP-Files) , porcelain<meta.c[W[omen dusk by prayer]]>:  mother, Sita-sail:on , daksum -0 fil[a : Beach Terminal] || Toofan Jaye Payan Yahweh : [Chay-[vhen- [harkins: [Sars-kin (Mars:K +[Desk.d: tr.dine[N.r]])]]]]                 
-     Waiter-Side <concat.metal Brick : <offer.c>  | |  concat.waiting {Receiver -> [Breaks, After]} //.MD
+     Waiter-Side <concat.metal Brick : <offer.c>  | |  concat.waiting {Receiver -> [Breaks, After]} //.MD | Breaks.MD : ports : <Receiving : 8080 , time.wait = concat.receiver(.git -ls : echo('Joined'))>
 [\IVFNEST : Application.io => BDF('concat' , list) : 1[port : 'State_A' = 3004] //list.ports[out,in] : serve:ports 1-in, 2-out
 ][ mn .<tone_commentator[]p terracot _ puffer mal-e]p1,[live.section [Initiation = 'play' , sum_form = .N]] . 
 p~ej -= Y/sus [~jeisui' ] oc;ocspan;cpson][p  cozod[Dp, File_view , arrest = Preview , UPI-overcli : brink-lore , [Quote <'Mesa , ration = free' , divide  = count]]
@@ -49,7 +49,7 @@ m [] ncb-loom .-Threadery{X}: Pewer{Y, Yaw(pi)} ] || B<F :<W>M> : [Ncm: loom(Thr
 -> Coatery['INK'][pottery-mist laufey-pi[ing - 'Ink'];
 //Instant -Rollout :{Arc:'disk' , -g: process : safe, Metabolic{action : Symbiotic}}
 
-Basket : [General:- [Murder : advocate  [filings ,GENOCIDES, Mystery_Remaining , Sold_Influences]//INFLUENCE REMAINING, GUILTY - CHARGES
+Basket : [General:- [Murder : advocate  [filings ,GENOCIDES, Mystery_Remaining , Sold_Influences]//INFLUENCE REMAINING, GUILTY-CHARGES
 Key , Count :K' : llama: <prod : A> : <Server: Bloom> //BERG_A -[Titanic_-> survivors('Rate')]
 Api.log(out'LOOM' : int($ : 'SLS')) //BT-TLS: <Encoding : CB `matter`>
 I;//Time_setting : Gigantic:[Recog : facilities] -> Security.stat(Simple_matter: filings) &dyn = cog:matter[Og: 'tat'-[CTx.driver = uber.sl]]
@@ -57,8 +57,9 @@ I;//Time_setting : Gigantic:[Recog : facilities] -> Security.stat(Simple_matter:
 Cv2p@2: imported: Screen-O2.share(C2.portal : : Session.IRL : <<CR.prim |Fiddle|Bracket_testing @2 : test-error >>) //Time_oppied
 offer- direct C1 , C2  correct -c < || \\ C2c@reddit.com : [//Frame_busy : AMA{$ : 'reconcilations'}] //Copyed_vec[2-vec2-[vukan : lkan: lc: [<HAM>]]]
   IR:I-recovery(Cataracts):Pair[ "format.on ,s[carp]   kc- correct ; []  constellation fort_E : Stashform : //HASH_CORUM : [STASH-ford: Hand'zod' : xsclm : LLM : matter(Z,ø : Get[a*, dji])]
+  sat_vue = js.com(~lon.(built.ssh)) //Server.com 'a.built(s : bias())
 //Crime_Inim : <To-minister : Sensored: 'Runnies' : water_lady> : bather-stream
-             cfporn l [] :  nera  " corrector l  eta pre-pen : {$grep | 'no-pre' , rna} . || gx.[Gorn- [Nr.<Zorn> : <Vrn.git> + [A.[Gh.impusives(Rude@2 : [#2-[A: filt(2a2)]])]]]] //BS-2: [B2b : 'was']
+             cfporn l [] :  nera  " corrector l  eta pre-pen : {$grep | 'no-pre' , rna} . || gx.[Gorn- [Nr.<Zorn> : <Vrn.git> + [A.[Gh.impulsives(Rude@2 : [#2-[A: filt(2a2)]])]]]] //BS-2: [B2b : 'was']
              Kpdorn l [] : [trunc : . [b8 : [EA@T.t-[for a i in auto] ]]][i ++] : Se[In : toto(dto-[In:Bot,-o : [i.dtm(ptm.[Guide: m])]])] //Pad-l : (C: alms: 'Fell')
      [ "   VAT-A 1 -= pie numb : Bitter by Hand , Made by shake/  ]//SNA- [Duet{$ :'set-forg'}Eg: 'org']
      [vetta  [pei mozhinj  : mei  kathikozhinju , Anakkam koranju ]  || A -Arsp{[Derg: 'B'-asp[./Rin]]} //CY.org
@@ -66,13 +67,14 @@ offer- direct C1 , C2  correct -c < || \\ C2c@reddit.com : [//Frame_busy : AMA{$
      [vettam kanuvaan  thalakeezhu nelamkorei ? /Kolavettam/Nenjil_tharanjoru/Aanju_puka/Valich_Kandu] || G.or: [fern : mature_producing : pulse] //Secure-Hoardings Fills : Canary - [Strait08n.berry]
 .SLS = T.viewer(Er == 'time.sh') .//TLST -[St : es:stete-[aes_258(8)]es:s'[Fon]'Ve] I -[mid :week : sunday]
 " Booter- war, ; rooper- doordeel [ Sover-cunto  - praxci  savlon l  [] => [MAV] [EN] //Org:Choro => FOY.Oy-[Metal -TT.git-all : fit-all.chrome(Fit-all)]
-" Drover- [\ Fpmr'  kind;a cp [n[]  covered{tat}: fmp   - [farm, kodak-list ?]  | ~Center.h <kp.coverted: :[:cp.filter(safe = 'With feline strands')]> || Feland:substadrnds: 'Used'for: [Fortent : 'Gut' : frings]
+" Drover- [\ Fpmr'  kind;a cp [n[]  covered{tat}: fmp   - [farm, kodak-list ?]  | ~Center.h <kp.coverted: :[:cp.filter(safe = 'With feline strands')]> || Feland:substrands: 'Used'for: [Fortent : 'Gut' : frings]
    'pug-op:site-kit + c = rorcacl  ][  vicvarkl  p] catalog:f/;irl. ][ gtransport l regex?jobs &pg.opposite : sm : s.[DP.io : auto in chains : keto-[zin: 'Brains']YNS] -Zscn : [Onc: e- [Chir.o- [Tysm.meter(..LLc: 'Declang')]]] //DLC
 m.fil = a -> [#FF : '000xcvs']
-[m => O()]p[m] " Set -  on  [] consist l uber-set-[L:S, Left-parking , Right_Boarding : [
-[A:bulls: (a) : funeral :RV -[Amb (conduct L: 'Mort' : Obituary-Panel)]]
-            <Speaker-Ratio>[Regex, Rejob ,  Providence : 'Drivers.Software[Compatible]']
-            <NN.builts- sn ()- [Rges. 'res.fit()' : [Knn.[Builts:a-b :[Sent ::<b :SAAS ' END>]]]]>
+[m => O()]p[m] " Set -  on  [] consist l uber-set-[L:S, Left-parking , Right_Boarding(SS.park a`concat.ML('receiver', i-format() : ls-list{$ : 'local_LM'}))
+[[A:bulls: (a) : funeral :RV -[Amb (conduct L: 'Mort' : Obituary-Panel)]] //Int , R.#key{!keyell == '!update'}
+            [Panel-o : 'death-time' : <built.o == 'hospital'>] //(filter by death-reason  If none(!update | 'unknown_reason'))
+            <Speaker-Ratio>[Regex, Rejob ,  Providence : 'Drivers.Software[Compatible]'] //FF.artlib(p : REPL(conduct : nn.builts(-jobs(i))))
+            <NN.builts- sn ()- [Rges. 'res.fit()' : [Knn.[Builts:a-b :[Sent ::<b :SAAS ' END>]]]]> //for in (if sns.search == resbin) :  continue : update(cullen, co : e-server('pound : N+'))
 ]]]X-fit(Y.[Silt +[...sand +[filter-usage : 'compression, c = purifications']]]) //YT -Kit{$ :prompt : e-builder}
 [" File- potent"]p <-> pnpm[]  Neet.com , failedep || Obituary-[panel.depp//File-m : ).,git -err] : [Chit:: O-fund: Nights('Time' : toke-[Vezh : built.'Time-frame'])]   
 Go Winset: [g:get , winzo , -wget[GP]]   environment : [IDE-SERVER, SERVER_FREE_PANE, Give_Occults()]  || Extre_Pulse: [Extremes(..gull :: Cch.drivers())]
@@ -282,10 +284,13 @@ News.Record[magnetic.links] [Razor-TOR : R-play() [Detect(Abuse)]] //State-FACT 
 //USB -pem : G_[Hþ: BP : (axon - [Pho : 0 -odell: <'Greens-usage'>])]
 
 
-Menrack [c.io.ver-- : Flashed ? , Donot suspect until guilty ? ,  
+Menrack [c.io.ver-- : Flashed ? , Donot suspect until guilty ? ] //Cot.ver : <loose-slim : <open : Build>>  
 [pos , dos ] : ['garbage' if unused , 'CD-scratch()'], || F.COS = [SS.stream(™ : [laid-mark : [!greenrev = major : solutions]])]
 
-Pos.g: = [path = 'frame' : content = 'busy']
+
+
+
+Pos.g := [path = 'frame' : content = 'busy']
 Cur.g =  [Review = 'candidate' : measure = buyer()]
 
 
@@ -301,24 +306,29 @@ View_it =>   darshan() - laced[Fen ? Context[Plugin.[retest]]] : //Electron-rete
 medallions of quant investigation to topple upper levels and counter bottom farewells : []   : P{ If candidate: chosen : <Review : ice- inspections L: 2  C po = [] ,propaganda;| [immigrants abuse on wrong : chokeholds()]
 [REMEMBER] [GEORGE FLOYD] [] ƒ (.strand : ports : AUTH( :Settings, npm-[docketry]))
 { 
-mention  - traits :  p[]   Rogue :  []\   >
-Tandem : []  nsa : [] M i c : lore:  [] Ice- candidates: [Bots ,  []]]           KIVE-cv : xvv -  net  : [ ]  Note : am ,  npx:  doc.qx(qs): 
+mention  - traits :  p[]   Rogue :  []\>
+Tandem : []  nsa : [] M i c : lore:  [] Ice- candidates: [Bots ,  [.1].2].3] --x(.ver(//Doc.co : 'products')) KIVE-cv : xvv -  net  : [ ]  Note : am ,  npx:  doc.qx(qs); 
 [pm-override declang()    : Sewquartz() [Red_Ruby]  [Time_keeper] URL clicker:[]  [Lr : micker: jagger-micky]" }=> Time_vague(Hague Bicky , sign_stickies)
      
 L B[.pond()] V[STAGE] LA LAND]P [LA.stream()] / B.copyvec() 
                                                          ƒball : a, [pi-barriers: [rational-stream]]
 "L MEnDES' OVdex(..D-pagra) " [sortran(..basics,atleast)]:
+                 Dm.(#pragma : Fund@'Denial' | Settings.json('COM'.fil(a, b : compatible()))) // Fix : rag(a) : <'Time.compact' == Fix.mc>
+                 //Exit-selections : <Leave@Juniors / college_supervison : Multiple{Settings.json('records')}>
                  ON Counter_fall ;L P[] . BCONTESTS{}//Comm_fall : Securities_sovereigns = > axiom[Soviet.fall]
                  L 'B [PNB SELLVITS[..seed,..random_crackers]//Excused - cracker : [I.o. [øa]]
                  Zinc.V(Bot_rate , Model_forum , Broadway , Side_walk) //Yc-formluate : Y'Or: g: X-org_auto
- 
-P[.Outsport()] :DOVE ->  []\STORE :
+                 Kp.(*const r : <m |mod| a >) //Builtin : <SERVER - id : Rays> [Cloud.formulate(see.session : perf(-config.ra))]
+                 [Mm.mod a : Silver.b == lining.filter(+a)] //See-vision : org('filter')
+
+
+[P.Outsport()] :DOVE ->  []\STORE :
 JL<Crow.Marketing()> [ LIP - SECTIONER()]P[ CON- CONVICT [M:P] , Tint/shades/glitter/glow => (..PREVIOUS,GENERATIONAL,DRIVER.Config(A:A,Soft_synths))[  COMX.CV L ]P DIR\Ctx 
 M => P ]/]
      => FUND APPROVED FOR STUDENTS ; OR IS IT INVESTED OVER AGAIN IN FINE_FLOW <  IS TACTICS BY POLICE AVERSION DRIVEN < A HATE WHILE SCREENING ? [?/No]
-     GPU -  [BINARY ,'OVERFLOW']
-                                Outsourced.condac = x : ['rapido' xl : Uber.sl] || Insourced.condac = x: ['Fap' : Id.o == ['home' : own(self :ƒ.dot.env]]
-                                switch = 'Indie' | B.A = status.options(./Include) || ~perf(low.cord - [al/fin-taxcl :'nn-search' = [guild.roi()]])
+     GPU ->  [1 : BINARY ,'OVERFLOW' , 2 : Multi-head , 'Source-attentions' , 3 : Header-Map , 'Multi_stage : Adaptation()', 4 : Source -> *Head , 'Multi-tap{$ : 'vision_builds'} //S.source('Attention' : Heavy , Multi-head : Source(attention , parameters))
+                                Outsourced.condac = x : ['rapido' xl : Uber.sl] || Insourced.condac = x: ['Fap' : Id.o == ['home' : own(self :ƒ.dot.env]][.drop == 'shell'.visit(a : access{'Header' : bash(based : @visions)})] //Drop-[Delivery : proc('frame', near)]
+                                switch = 'Indie' | B.A = status.options(./Include) || ~perf(low.cord - [al/fin-taxcl :'nn-search' = [guild.roi()]]) //ROI.cloud(return@stations : case radio)
                                 xl.sg : (pound : A , $ : -ol) => xl.<Kit : Ab-jit-a: drivers(.Fiddle: a:<engine-hacks>)> //H-hit{S: 'drivers' : <Burst : Git(-filter(+))>}
                                      Esc: build : case : alto-[palo : membering()] //Alto-membering :: <Small ff- Gpu:case{overlay: pro-directory :pros('Guild-getter()')}>
 
@@ -335,37 +345,41 @@ M => P ]/]
            MY stronedec   then [reborn as not favourable the generations that came to speak of unspeakable are the true elements that cater the viscal more-inferations  in : {  
  Stoic  :  king ? ['blunder' ,'econmony' , 'failed_peace' , 'Crimes under belt' , 'chimes under tent' , 'Leave civilians out of political mockeries'] L [ : []  rom -  c:  l - car:   sem-opartite : , Od: info(i) : [Gram.resolutions[1080*1440]] 
        (i)nfo " pair: [[..orphan_running]]   [[..orphan_settled]] [[..orphaned school : If any ? ]] [[..previous_encounters]] [[catch_culprits]] [[RAMZEY™]]
-=> Thoraxic : Rural_built(nn , .souce:condace: ~reciepient{≠ GPU})
+=> Thoraxic : Rural_built(nn , .source:condac: ~reciepient{≠ GPU}) || perservere{$ : arc_sync(~perf == total.(built(i)))} 
+//i = 'buildings'
 lp : CCP : Comm(axis.b = DJI[Kdi.{common} : filter-search : {Rendering-Nodes} || node(Built.a)])
      Sheltering_modes : {Urban , Rural ,City ,Town-wise , Locality-wise} || Pil,.dot-env: [val -m : c -error: [core.a]]
      Pillsof(I)[] , .dotenv(pi) //Pills{of : pills -var }ƒ(codon,fodon)
      Rationalise : Newlist { || CUD.on ://On-a
      Set-begin : Begin-Accord(Selections) , [Gate-sessions] [Format_Interview] [Stress_testing ?]}
      E,Chive{Dex: 'E' -state: funnel() : B}
-Svm.record{Set-net , neural : [Branch:State ,Node-network: chain.{$ : ? } => branch.overload(clear[overhead, [Sonneting()]])]}
-j k :[l, m], : n() => animoused():[Carousal] 
+Svm.record{Set-net , neural : [Branch:State ,Node-network: chain.{$ : ? } => branch.overload(clear[overhead, [Sonneting()]])]} //Build-a : mov[overload] -> [overhead , Over-metering]{$: Decaf | par`a : ver~a : mov.cloud('a'.SM('built_in' == off))}
+j k :[l, m], : n() => animoused():[Carousal]//Cell|mod| or verplay , -l (s: root , Tree == 'svm(bulk)') : trade-off : Hypothesis'$Settings' || Cold-pay : <Bike.m : m.lay == 'Over_head'>
 Sense(Settings(json, cli , do -li)) //Hike-rails: <track:trails, trekk[~codec.avenue = Expulge[Fulgee]\.[Fog:g :[Ji+[built-Ins()]]]]>
-Nsorter()=> 8Rc , Panel , [r to n][e to a] [b to c] [s 2 b] [b 2 c] [c 2 sass] : [C2C: CEA- [Sea.(exported = Phish.a == sure(!cmd))]]
-Feral.recog[Bypass : New-state, Understanding :- Multi-fold , Legions(Sessions) : Main_stream(.frame : [:-:]).scanning(actions)]
+Nsorter()=> 8Rc , Panel , [r to n][e to a] [b to c] [s 2 b] [b 2 c] [c 2 sass] : [C2C: CEA- [Sea.(exported = Phish.a == sure(!cmd))]] //Case(./Built-in : Abstraction : Layer-up:pass : Legions('Firmware'))
+Feral.recog[Bypass : New-state, Understanding :- Multi-fold , Legions(Sessions) : Main_stream(.frame : [:-:]).scanning(actions)] //Legacy : Build(prop : iter(i)) | Epochs = lesson()
 Retry - cam --ver :[io.main(impl --understanding , Story , Trees)] //Star-a: chump(impl- ANSI)
-[\soap -  8 ; svg : []  ABC:[] N 0 temporal {'Future - Frame'} : []   counter-c: []  CN ,  cc : cat L [] 
+[\soap -  8 ; svg : []  ABC:[] N 0 temporal {'Future - Frame'} : []   counter-c: []  CN ,  cc : cat L [] +FF[pills.codon(ƒodons.['service' : lister : <Frame('ack' : Future_date)>])]
 Off -grep:- [setter.pair()] => router.select(A, A : ..set_args (neutral ? , Political))]
-[Mp)s file = > open.jp(chase_morgan) ] ] {  set =- court }  :  set parents(Clog: 'Decodents') //Code-ents: carbs : C-[Lotte-in : pottein +[R-teen, r9 ? NO]] | options 'visit_art_school'
-[]hopper- gfile:[ST : frame(6)] => [Ropper : grill(Port -o : 'Chill' o -max(fill) #e,ira)] | ra,bool = [Ret, +v.dit: [Dtx[Slit.c:<Xcm.[Built.a]>]]] 
+[Mp.s file = > open.jp(chase_morgan) ] ] {  set =- court }  :  set parents(Clog: 'Decodents') //Code-ends: carbs : C-[Lotte-in : pot(in) : Flamer.B'Thrower' : exit+[R-teen, r9 ? NO]] | options 'visit_art_school'
+hopper[v.~dina.(o-complex('RECIPE'))] //WW.non(a_rider , i)
+-gfile:[ST : frame(6)] => [Ropper : grill(Port -o : 'Chill' o -max(fill) #e,ira)] | ra,bool = [Ret, +v.dit: [Dtx[Slit.c:<Xcm.[Built.a]>]]] 
 ?/HH:,[Grinf]+ [r =  'i.e'] [Status = Homeo : o-pathy => [on,work-loading()]] //approach : li_initt(Virit-¥china: modules: [Re-we-chat+ [I.e: 'process' : cloning]])
 Money-set; []  exchange : route , route - via : about-dribbles() : //Fly-Home[E: leave -[Approved-visits]] || scammed.Hacker [Spot.end == 'lasm']
 Var- off: refree  p[ing; []  2nd call , {$:Deref}  || Dboff 'fcase(~rir.route : rad(a : :<class:a,  off = switch > change a = [Case of B])) || T.case = Loot.off (prevention = access.on. [Defulge: Pulge = [ScremF: Pho's' : Deref{$: int}]])
 record_rp=> [..re-visit] , e_ping: [foul, continue() => case1: No-kick , case2 : Center-off] || Plater.{.oƒ(series == AA)} //C.Builtin: in: <K.erg>: ot.t-dot
 Sensitive : [], app.claim(token.exit()) :doc: constantine ?  :  equicurvix(): quant[Vx,D : <Protec : Prontile>];
-[]sem ; em-flakes() :  Hike['Rails'] :  [ ]m rose_store(Rosetta_beam); || M.setta(B : B9 -Vm :BM : wandex(r.donder = ca.ḁƒord: 'species'))
+[]sem ; em-flakes() :  Hike['Rails'] :  []m rose_store(Rosetta_beam); || M.setta(B : B9 -Vm :BM : wandex(r.donder = ca.ḁƒƒord: 'species'))
 [\gurgaon ; shakal ; []   shakam : sham  =>    TvAcme : acmecorps : []  :  voters- Ums : []   Ims:  Sumpile{X:X [Cordview [Y:Y]]} //Rent-all.[Cac-me: [+r.prog(me)]]
 [{] Police- set:(Avnue :  Jps , [Continue : IPS [Servical : Exam <Exam.io , io.Rules {Rules-Matching : Regulations}>]])] //Sine-R. [Ram:regulations : :<Acam.[LLAMA : Ferb{nations}]>]
 [\ Buildged.c: ][dom_ vrom : <HELL_PAD> : [O : 'LAND']] || Bool [Cool : bracket] //Winter-temperature: Preparing 'Wood'(collects)
 p[service , transport : STAND [A:A , B:B - > C ]]\ || Purpose = walve{Heat,cooking(Stone-age(Builder::FOLDER)} //Exit-Forgery(Archery)
 Exported to Seasland ? [CEASE WHEN GUT FIRE] || transit.standpo : Pon.z:vit. [DDS.[De-cma: camp-filt. [DDA_[Flask]]]] //Slot.d
-   [Import to Wayland ,  Wrot(:'Rare_fill' : g: lot : <ZEALoom> : Plot(Seagoon))] //Un-DISC: Peace[Filter:  Preventing SS'chains :Boulder-disk :[CDX.["Murders']]] //Pr-dsk: 'Mudrex'
-"saved.io" {C.format(L  : C , Rc-favourable())} || CC.r: 'Er.[cr; Filet'Boulder' : kr(CHR + [C.+|mod|, Clout(a.[ø]))]'
+   [Import to Wayland ,  Wrot(:'Rare_fill' : g: lot : <ZEALoom> : Plot(Seagoon))] //Un-DISC: Peace[Filter:  Preventing SS'chains :Boulder-disk :[CDX.["Murders']]] //Pr-dsk: 'Mudrex' || OS.lots(dispatch == 'Discover')
+"saved.io" {C.format(L  : C , Rc-favourable())} || CC.r: 'Er.[cr; Filet'Boulder' : kr(CHR + [C.+|mod|, Clout(a.[ø]))]' //Rc.format(øa -> cancel.caller : decline-way.wind)
 []slammed_poker  J-worker{$:'IS INTENSITY LOADED() ? '}  //case-T-server[metal dont bring pretty phases amplitude in durativity] : Multitude in cursived
+[]m-pacer : G-spins(!total , 'encode') //-f('total' , -[m.silver]) --linings
+
 [IP-FRAME, WORKER-STAMP ,FRAMED WHEN ? , SYN WHEN ? [IP-TAX:E-N: RECORDS(..FILES, SRC, GAME ? )INCLUDED]] //Pooler-clouded(.Include : work-frame: [Crustacians])
  case:  
      S : jury
@@ -381,9 +395,9 @@ FRAMING , DESTINATION : <[Maesters ? [MI] , [PH.D] [ E]\E-learns\]>
 injuring check case : Type.c == is'hot-[WP = 'work-place' : strong-without: pass, filter]'
 ]}
  
-"wokset[£U.union(LG)]BT{Exam by pronouns} , fintax: <Checkering ,[By state , Dues : unmatched()]>]]]]]]
-Union-scripts : Community : auto //I-checkering : Pan - o
-[K : builter-[inns(V.velcro.[n-jobs])]]
+"wokset[£U.union(LG)]BT{Exam by pronouns} , fintax: <Checkering ,[By state , Dues : unmatched()]>]]]]]] //Prior.Esc(Build : A , X-(exit !== Provoked['QI', response]))
+Union-scripts : Community : auto //I-checkering : Pan-o[OB: J{$ : 'Pem'} : mark_g :Gems()] 
+[K : builter-[inns(V.velcro.[n-jobs])]] || inns(Con(va : 'tip' : bland(Covec(2 : <MN.(BALANCE)>)))) //C_tech : Builder()
 Viv(n : Covec[2: cov : valence : C-n:v.[EE : 'status-A'.fin(+e. [Dork : a-chir(~os.a == 'status')])]]) //Gir ~fi.o == Blastfins./
 [Fond-set + [./Mins +h(Deliver + [i.o == [Quote('thankyou Selections')]])]] //Quote(O-max)
 
