@@ -27,12 +27,12 @@ print("*")
                                                          '
                                    \______________________________________________________________________________________\       _/            
 
-Chip- Packets : { }  [Knive:string: 'Bill - l ill : <Tiron :  v:   []  
-                                                          [Tiron :  Kintra : "  []                      Akhamkhar : dhvoneum :  vua :'Dhoneum :  Dhall ; :  ETOM : GHAR , '
-                                                        silk Venrra  [₹abardai(..dum ,   dum , ..  thanaknawal :  passs )];       
+Chip-Packets : { }  [Knive:string: 'Bill - l ill : <Tiron :  v:   []  
+                                                        [Tiron :  Kintra : "  []                      Akhamkhar : dhvoneum :  vua :'Dhoneum :  Dhall ; :  ETOM : GHAR , '
+                                                        silk Venrra  [₹abardai(..dum ,   dum , ..  thanaknawal :  pass)];        
                                                         Dhumdham(:,dhananan-  dhananan - (90 :  89 ? :[]       TruckandbeR : DUCKANDsear:-Truck and nails ,  [hammer and poles]
-                                                         |   []                 Acquirevanch h : [] 
-                                                          [] 
+                                                        [AVALANCHE : ('ock_qui' :)]['c', const QI]Acquirevanch h :<f>
+                                                        [] 
                                                          Dhovo -knowewa l : [ ] 
                                                          Soradisk  ''Ai  manul     : Auth-change :  Hypocrisy()  
                                                           []  
@@ -42,16 +42,15 @@ Chip- Packets : { }  [Knive:string: 'Bill - l ill : <Tiron :  v:   []
                                                          5  
                                                          
                                                          \ ):)
-                                                          [ ] 
-                                                        Trail  . kshihsihs ; " 'Ig-  del : [ ] 
-                                                        Doyekwuan : ' Setll :  soldier. . .ruderim :  call , : []  
-                                                        NoNen  should  : ' place  - an y rhythm  balls's 
-                                                        One mu st  self a and type to achieve the best keystrokes thaT stood a favourable  : ''Dockerm.Mini : 
-                                                        t In thrive he sysy panel : ' Rooot= Malfunction : ''Loist - functiopns : 
+                                                        [] 
+                                                        Trail  .0 .0 . °0 ≥  : no- ent(lat.a),    ; " 'Ig-  del :[t+(plt.a)] ; 
+                                                        Doyekwuan(Q :W | A) : ' Setll :  soldier. . .ruderim :  call , : []  
+                                                        NoNen  should  : ' place  - any rhythm  balls's(s:s-[lseven&8-[ : :<9@['Tutorials']>]])
+                                                        One must  self.a and b != type to achieve the best keystrokes that stood a favourable  : ''Docker -m.Mini(app -[latch. ://cp(!)]): 
+                                                        t.In thrive he sys.panel : ' Root = Malfunction() : Lost -+(functions, CRM)
                                                         dextereretatioN ,  ''deseererttetei  : [ ] [
-                                                         Pararco n :    [ ] 
-                                                          Dholdhey'Vra : [ 
-                                                         Snuguiththen ,   []  
-                                                         GThalakkawaamarataha,  : [ ] 
-                                                          Dhiolakindreaiaidi : [ ] 
-                                                         ]' '']>']  
+                                                        Parco(K : CODON -LENS<'apparitions' : const (A : <'I.look(scope-lanes)'>)>) :     [I.<'level_Inte()'>] //BOLD_DA : [core.pmr] 
+                                                        Dholdhey'Vra :  [] //MA ['TM'] : :<[VRA_{'dock.skin' : [support.a]]> || V>rac['xs.bin' : <ma.(con)>]
+                                                        //<Gir(sh : !ignore : <git -fin(all)>)> E : cre[t: 'ao' , i(va)] || LL.wh(gh -a)
+                                                    
+                              ]' '']>']  
