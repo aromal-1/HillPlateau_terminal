@@ -6,9 +6,11 @@ over x terms. It zig-zags above and below pi and settles on it, like a
 switchback path that climbs to a temple. Every scene below is drawn from it.
 
     python3 tapestry/faux_pi.py            # all scenes
-    python3 tapestry/faux_pi.py curve      # one scene: curve|temple|hill|procession
+    python3 tapestry/faux_pi.py curve      # one scene, see SCENES
 """
+import itertools
 import math
+import shutil
 import sys
 
 
@@ -133,11 +135,77 @@ def scene_procession(count=6):
     return "Procession to the gate\n" + "\n".join(lines) + "\n" + caption
 
 
+RAMP = " .:-=+*#%@"  # pixel coverage, empty to full
+
+
+def scene_cavern(width=78, height=16):
+    """A cavern under the hill, shaded by how much rock covers each cell."""
+    c = Canvas(width, height)
+    for y in range(height):
+        for x in range(width):
+            u = (x - width / 2) / (width / 2)
+            v = (y - height / 2) / (height / 2)
+            # the hollow's edge wobbles by faux(pi, x) - pi along its length
+            edge = 0.75 + (faux(math.pi, 2 + int(abs(u) * 14)) - math.pi) * 0.6
+            rock = (u * u * 0.8 + v * v * 1.6) / edge
+            cover = max(0.0, min(1.0, (rock - 0.55) * 2.2))
+            c.put(x, y, RAMP[round(cover * (len(RAMP) - 1))])
+    c.sprite(width // 2 - 4, height // 2 - 1, MINISTER[:1] + ["\\o/ (_)", " |      ", "/ \\"])
+    return ("Cavern: pixel coverage of rock, @ is solid, blank is hollow\n"
+            + c.render() + "\na minister has found a pot hidden in the cavern")
+
+
+TOWER = ["[]_[]_[]", "|  ..  |", "|  []  |", "|      |", "|  /\\  |", "|_|  |_|"]
+WALL = ["       ", "_[]_[]_", "  : :  ", "       ", "  : :  ", "_______"]
+
+
+def castle_columns():
+    """Yields the castle one column at a time, forever: width = Infinity."""
+    for k in itertools.count():
+        module = TOWER if faux(math.pi, k + 1) > math.pi else WALL
+        for i in range(len(module[0])):
+            yield [row[i] for row in module]
+
+
+def scene_castle(width=None):
+    width = width or min(shutil.get_terminal_size((80, 24)).columns, 78)
+    cols = list(itertools.islice(castle_columns(), width - 4))
+    rows = ["".join(col[j] for col in cols) for j in range(len(TOWER))]
+    rows = [r + " ..." if j == 3 else r for j, r in enumerate(rows)]
+    return ("Castle of width Infinity: towers where faux(pi, x) > pi, walls between\n"
+            + "\n".join(rows) + "\n" + "~" * width
+            + f"\n(an endless generator, cropped to {width} columns)")
+
+
+CHANT = "realm of existence"
+TENSES = [
+    ("past", "was the"),
+    ("present", "is the"),
+    ("plus-future", "will have been the"),
+]
+
+
+def scene_chant():
+    """The chant in every tense, along a rod; each echo fades (de-max)."""
+    out = ["Chant along the rod: all tenses, each echo fainter"]
+    for name, verb in TENSES:
+        line = f"{verb} {CHANT}"
+        out.append(f"  ||  [{name}]")
+        for echo, ch in enumerate(RAMP[::-1][:4]):
+            out.append(f"  ||  {ch * 2} " + " " * (echo * 2) + line)
+    out.append(" _||_")
+    out.append("|____|  Dev.rod(map.schema): each tense maps one band of the rod")
+    return "\n".join(out)
+
+
 SCENES = {
     "curve": scene_curve,
     "temple": scene_temple,
     "hill": scene_hill,
     "procession": scene_procession,
+    "cavern": scene_cavern,
+    "castle": scene_castle,
+    "chant": scene_chant,
 }
 
 if __name__ == "__main__":
