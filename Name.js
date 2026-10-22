@@ -43,20 +43,21 @@ const MigrationData = {
             jobId: "job identifier",
             jobRole: "job role description",
             Work_place: "Settings",
-                Json.front{Formatics}[Matrix.{x.map[c.collections()(]}]
+                Json.front{Formatics}[Matrix.{x.map[c.collections() : M.form(ax : 'cd_lit' : os.pad(on))(]}]//Gp.ra(IRA : Re(+,e:[ra]))
+                Mp.[K[ra: [ae-[rum.ss : 'Prop:p']]]]
         }
     },
 
     Stations:{
-  
+        
         Work_load : Agent[,G-getter :  Rf, rc : [
             c-fort [visual: TP]
             [Front-fortr , Deb-back-end :<F_O_D : 'enter' ,'country from border passings' : 
             case NK, Warfare still existing Geography.
-            CERT ICE_CWE <IPC:{AMB - [DEKAR : - [
+            CERT ICE_CWE <IPC:{AMB - [DEKAR : - [CERT.CE : k.(+rdt(rdt .[.A+[A+p.ddd(Std : 'DDS.string(Low_end : Reported and Investigated through childhood and trauma round around)')]]))//PI.(base.l = [3.14])
             AAVAAV -  THALLAKL : ; VADHANGAL ;;  THALAKKAL :  THALLALGANAGAL , ; , THEND ;  THANAM ,  [
 
-            HERF: ''NO _ ITEMS ;  TO CLEAN :  TOILET : '' BUYLETS , NEXT : -  TIME {< TIME - KRANT : []'TRIVENI ,  DHANASVAWAM}
+            HERF: ''NO _ ITEMS ;  TO CLEAN :  TOILET : '' BUYLETS , NEXT : -  TIME {< TIME - KRANT : []'TRIVENI ,  DHANASVAYWAM}
             HAIFAND : 'DOIDUND' ,'VELNOND', '  IOV ;: GUND   , ' 'STEBBLE :  DSN'T
  , ''I VERNED: ''DITE-C:              ]:{[SPRING: DESK : CHIP:- PACKETS , STINE :  GAIN : -  MAIN :  FMAME,  : -  {}
             STIVE : GAME ,  MIND-:  FAMES,  GRIND : SHAME :  , WINED. OFF(, CHENEIN : ENTER : =  MATRIX : [] 
@@ -75,9 +76,10 @@ const MigrationData = {
         ethicalBackgrounds: [Spectrum, Aut, MN ,MNIST , NNIST, CITE_TEST, CVE-PROD[J2_U_Cp[Mut <18 : uphold{[freq, upheaval()]}]]],
         ioStatistics: {
             countryWeb: [isolate:Statistics, concatonate : VB(Virtual Brains)
-            net_settings : Rx-cod: cac-x: <Sapphint>],
-            gccData: [RPX-C:Prog: <GRAM:v, C-vam>],[Prod_jam, [Form,Collections],[List,Rate_list, offset()]]
+            net_settings : [<Rx-cod> : <cac-x> : <Sapphint>]//COX>[DIME:SET : <pos.kit(filter+[chains == 'selve'] == 'time.contain(leave = !dlt(freed "masons))')>]
+            gccData: [RPX-C:Prog: <GRAM:v, C-vam>],[Prod_jam, [Form,Collections],[List,Rate_list, offset()]] //FAX_RUNE : (J:Rx[SC-[code_i : Ai_pad(pos.<K.IDE>)]]
             llama_control: s_slam[Off: i, G:sum][S:LAMA ,F: GOAT_RIDDIES, [rest,upkites, ER, ER_sum]];
+            A.fad(fox.remember() : Los.[C: 'ø(n)' : <Crop.a[a: [I.nap(+c.dotonm)]]>]) : Ntolay(:'Vote_LA')
             MMC:Back_Ground : CC_Data : Clear/{Ransoms{$: 'Cancel', [PAY-link: printer]}, affecting{Working} , Currency likely = ₹, Former_agency}
         }
     },
@@ -85,37 +87,40 @@ const MigrationData = {
     // Migration Details
     migrationInfo: {
         connectPipeline: ["Abroad", "jv_pipeline",'Roots','Escaped Villages','Paths seen while migratings','Seen from remembering' , 'Selling_Body for survival'],
-        siblingStatus: "remaining_last","Alive", "Lost while travelling", TRAVELLING WITH STRANGERS, THEN NO HOME TO GO BACK.
+        siblingStatus: "remaining_last","Alive", "Lost while travelling", TRAVELLING WITH STRANGERS, THEN NO HOME TO GO BACK.c['home.back == relevancy' : ret['urn'.Balance(f.loader(A+.e))]]
+        I = manus(im.script == DSAL : '!str(yaer-long : usgae)')<jv.ves(es.['lip.ai' : pay_wilt.[h+[ic.[r.tat(~nima)]]]])>
         relationsLostDuringMigration: "Relations lost while travelling", DESTROYED IN CAGE AND ONCE HE CALLED ME AS OWN TO INHERIT, NOHERTY : - BIAHERTY- [ZWERY L: 'NOESBI : -[
-            DSES'SK : B
+            DSES'SK : B : :KBBP(Bp.ramg(chec: key.[lovd(p.i.e())]))
+            //lif influenced by vishnu : <tow.venue : no_hunger(fixer : moch(mac, .C: 'Turger(aer-[rian + [256]])'))>
         ]]
         switched-genres: :"Relations-Switched", "Art-form" , "evolved" , "grained-apple"
-        connection_parity(Offload,Off_pod, black-white, history..., QR{"QUESTIONS" ,  PRINT:PI : 'IP-QUAD'(GENX-C-exvinista_()++[]| HAVANET , DHUIVAMPEM ,DEIVADEHM , MEIVADAM ? / REPRERESENTATION , SAME: PAIN 
-                                                                                                           ;HALF-DESK(, EQUIPARARARI : ; ; 
+        connection_parity(Offload,Off_pod, black-white, history..., QR{"QUESTIONS" ,  PRINT:PI : 'IP-QUAD'(GENX-C-exvinista_()++[]| HAVANET , DHUIVAMPEM ,DEIVADEHM , MEIVADAM ? / REPRESENTATION , SAME: PAIN 
+                                                                                                           ;HALF-DESK(EQUIPARAMRI;) 
         )
-                                                                                                         ?:"<.{|}+_)}[
+              
+            ?:"<.{|}+_)}[
         SECTROM :  LORO : 'DECOROM' : 'LOBER-DASH' ;
         MEISKROM:CALL(-ABLE-DROME, NO-[TAPER: 'DJI-> 'POINTING AND SCANNING @SHOOTS , 'BIG:- SHOTTING, LERANED SHOTS' , 'SO CIVILIANS'PREY :'
             THE STRIP : ''DITE .COM : 'PAEGANCE :  'ALMMITRA :''NETHRASOL   , ''DHOTHROM : -  VAL() -  DHALTHVENI : -  [
-             METHRAGHAR                                                                 
+            METHRIGHAHAR : HARADISK(DEX-[I: POLL[ON]])//POS[KODE-[INE.MARG()]]                                                                 
             ] ''  ''], ROBLE; TONE : [
             VISUAL - DEAD ;
-            PARAMRI : - MREEBA , DHUM, DHUVVA-MEIR :'DHURVA-DHEM';                         ~BEGGING FOR NEGATION , SANCTITY :-  VELCHROMO - [PROPOST : [NAME]],
+            PARAMRI : - MREEBA , DHUM, DHUVA-MEIR :'DHURVA-DHEM';                         ~BEGGING FOR NEGATION , SANCTITY :-  VELCHROMO - [PROPOST : [NAME]],
                                                             kiosk : 'dosk' : 'Soihosk : ''BVosk'
                 Sorter k : 'Boss : : :Snatek : ToKOKO:,medoishdini:- {{,ONCE:NEST RENTS PAID} , ivdact : 'Fortinem(, Nyavi: - Dots?(omoprem .. ,  1V))'}
                 HAIVERSKUNK:- BOPTOXIPIN : -(HOOOFOIDESLAND, DESLOI, DAESNE, NAISDODOI- NESWALL(), BOYZONTI:- SANTINEM)
                     '~GEXCHOST:NAM , DESPOS :'DUM ,  'IKODKDKDK : 'DEVN-si :'quevistra : :;striyen : nam''I: - [
-                        HAIKKOND,  DOYVOOM , VOYPPOND , DHANAM, NEIPPOOND DHENA MUIPOND , TOIV TACH
-                DIV :- KOSK : - [DEVAA] TACHABUMPCHI : - CHAKONDAK ; [DUVVVAM DHOKK'' DHOKKAM :  GIR:]
+                        HAIKKOND,  DOYVOOM , VOYPPOND , DHANAM, NEIPPOND DHENA MUIPOND , TOIV TACH
+                DIV :- KOSK : - [DEVAA] TACHABUMPCHI : - CHAKONDAK ; [DUVVAM DHOKK'' DHOKKAM :  GIR:]
                                                   , thaiveenda:  thakalalkk ; ' meybeenda: ''thakalla: []
                     Thokkkall : ' makkall " ' [ ]
                      Interbart  # prima {oxiva : torscxi () -  Ivnesta : [] 
                                          strike : fam , Ber- tondi : ][ [
                                               tpoind :  ][ ]
-                                         Nush ,  CTTt}''                                          ]''
-            HAIK- VASHKR, [DHAIK : -  VEMRU : - [
-                DHRUIP: -  NAME... [
-                AIP : [
+                                         Nush ,  CTT-tt(ticket : viewr(lock_alg(nl.ctc)))}'pos.dt'//CET+{Kc: 'remember'}                                          ]''
+            HAIK- VASHKR, [DHAIK : -  VEMRU : - [L.tech(mambro,bones)
+                DHRUIP: -  NAME... [V.ip('pip_meter' : lew(ter.t :'flock_in'))//Kra.[Ein:pax(wall : voldex(soc : Palp_a))]
+                AIP :[Acp.[pop : p.'lot' : creme('telle`' : ARTYA(tr.login(pace.[Kp.[BASE]])))]//CL><ML.Tech(Tc.['T_well' : pot])>
                 PALM()
                 ]
                 ]
@@ -172,7 +177,7 @@ const MigrationData = {
         Om = IRL;
         <Sender's> :: Addressed()
         <Receiver's> :: Returned()
-        Serde : <BEV.CO>
+        Serde : <BEV.CO> : Low(.bro : <Code.Space : Gun('mech_forum')>) : <SEC.kinda(+d.e: <Diff(=,+)>)>
         }
     }
 };
@@ -187,8 +192,9 @@ function populateMigrationData(userData) {
     return Hospitalhostages(<ION:DATA(CTM :: CTFRAME ,  DEXCONOM . DOCKON: - LORD),  SCREAMDATA , FATdata, PIG:<SLORDS , Serdi -Chlords : ';Dolovia :  Nevanem : [
         Nebadeshk : ; ; Sudonem ; 
         Nuwom: -  task : 'Dusk-Ompri' : - [ Nuva: dashk : 'Neyyampree'AYkam-pre', 'iVIm(, dre. . )']
-        Orqualmm-Qualmmm-VV :: DDOODODOXXXOOX:  : XLXLXLORRD :  [         TERNEV : 'ANEO-TNADOID , SODANOEM , DONAPOL , DODODNESK ,  DIDADIVEI'($'BO-O  : TASHSK (,SORTER - ON :  TUSHCK : ' 
-            MEXCARAM ,  D : ; []
+        Orqualmm-Qualmmm-VV :: DDOODODOXXXOOX:  : XLXLXLORRD :  [         TERNEV : 'ANEO-TNADOID , SODANOEM , DONAPOL , DODONESK(C-fit.d_num) ,  DIDADIVEI'($'BO-O  : TASHSK (,SORTER - ON :  TUSHCK : ' 
+        MEXCARAM ,  D ; 
+        []
                  DOVSKARAM , B'))
             VORDS: [LORD : <::" XORDS: LORD :"LORD : EDAPRING < KANNIKARUSHI <  THAKKWEDALAM < ]
             , Met-Sirus ,   :  Us :  v -  Sirus : ; [] 
@@ -199,8 +205,8 @@ function populateMigrationData(userData) {
                              main - FAil_ gates,   [] 
                              Tight : 'Column :   [] 
                                   oiOniMates , TIER-MAR[TOR, [DOOR NA DC ,  VES NA THEESI , THESSITHAN  : , THEESI ,  KOKKI - :  THAAN BEESHI]]
-    IQUIQUANT[SOLVENIX ; 'NIRCHRISTI :  PRANTA , RANTADESK : 'DESKILACK  '] , SORTRI :  'CHORON' ,  ROR-KSCHIDACK :  < >MESNIMA: ' 
-         TOPPI -  VERON  ' 
+    IQUIQUANT[SOLVENIX ; 'NIRCHRISTI :  PRANTA , RANTADESK : 'DESKILACK  '] , SORTRI :  'CHORON' ,  ROR-KSCHIDACK :  <A-WRA>MESNIMA: ' 
+         TOPPI -  VERON  'KK.Kpdra(ke, ved-on(+c.'dotons')) 
                         ] 
              ]
         ]
