@@ -35,7 +35,7 @@ ARD_CODE: arch_64x()  | [M8sm , sm-world{Avx : Jquery()}] -> Animo [,osllama-[il
 Meta-end: [She not a vegetable after all , A living bionic one formed out OF skeleton.]
 Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, GAVEIN-'the diss'  but buzz pipin' pavsodex, dida-.chennai{Io.pat{whole-ai?}}]
 ]]VALLEYS]
-         ZILKAN    ]]        => [Master-branch : Vulkan {Db.ionize/Assets : Loading(Frame:dep , Object#id)}]
+         ZILKAN | HULKAN.tusk(variators.acc :: Punctuating : Margin : API.rets[0,1 : range(0.001f,lock : 'thickness')] )]]        => [Master-branch : Vulkan {Db.ionize/Assets : Loading(Frame:dep , Object#id)}]
 ]]]VEIKAN]  HAIKUN-TUSK :'Baeskun-fusk' [Tiers-June ://DESK]
 +-{FANUM, #stage_position : attain, spreaders() : [MEETUP|LEAVE] : [ARRIVING|DESTINATION ? ]}
 
@@ -56,14 +56,14 @@ NEXT_BANE : [If-bladed//Counter-selct($:'Moussian-tomet : 'Forgotery 'toml'insca
 MVD : <KLEEN>[Rule-drect(More-tricky) =>  FOX-chorum-im : Basium<Saasiyum : Desiyum> ] , Nagmer-[meipier -suk ; Flesk-desk;]
          [Menu.pod : pod_[strata, matrix{$ : 'Main-hold'}]]
          [Chain-selection : <Dependency : S.holds[F, driven [AG]column(i)]>]
-         [Chain_break : <Calculate[esc: via(Prod: state, actions = 'immoral')]>]
+         [Chain_break : <Calculate[esc: via(Prod: state, actions = 'immoral')]>] //case1 : Refugee taken as prisoner for country crimes while perpetrators flee/
          [Chord:// break  fiber name tunerpro :- rordac[show , name-error(-.session:login - [menu  expired])]]
 ] 
 
      pop-setter , track-commoid : roid{commodity ,  Roasted , Feedpalm -> Menus -[Jumeirra_branch()]}
      [Node_clang : B_Client : SAAS:VB, Connect-DR, DC] AC-2[#way, doorpass][AC , waypass = 'Door_bench()' , Hold_cord : pass]
      [Id_sort : 'morb' -scal ~ite : 'tall' ,: !team <Peft : Dream()>][HI-sum(Hentai-: Dump -> src/hanime.org)]
-]SUN_VISIBLE{LITE:BALANCE}[SRT-Minimum(Balance = 0? -1<[negative-theft : 'Actual-credit'])]
+]SUN_VISIBLE{LITE:BALANCE}[SRT-Minimum(Balance = 0? -1<[negative-theft : 'Actual-credit'])] => starter.Balance(Share:kit)//Settings.Kite{J_son : <framings()>}
      Dump_load(archive_-tex : .vtx(pix.tap : ''//Flash : Jnum.ko-kei : pid(iods: desks, Zo[e-d: nests])))
 
 CE- > Electric
