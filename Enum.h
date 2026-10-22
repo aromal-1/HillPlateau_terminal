@@ -3,7 +3,7 @@ Code Statistics : {
 
      CAPITALIZED : PRINTED-BUY, company
      DYNAMIC: Boston-[core,fred]  : manual{Usb : [
-     Recorded: corded :  attics
+     Recorded: corded :  attics || Mn.matrix(X::man, lamp(blit. : lanes:kp))//pos(curvv(lewtein : kos(pax-[Xhos['remember']]))) : Borsa(lox_per-[ver: ver-ser.vim(dll.nano)])
      ]}
 Amassed:  j {Ferguson - tampered: matics : <Fnxs - snx - printed >  : [
 Retina-column : rit - > vv  - [
@@ -19,9 +19,8 @@ Dermatoid : Julia : facing ->  Alias.simple-made: [ [BARRIER_MADE , FACTS_RESOLU
                             Hand_Sotex(-nocrypt : #slipt{{'Ground' : 'Den' , 'Ein' , 'crane' , 'O-jone' , 'Hard-pei' , 'maltum-tie'})
                              else: Lithoplane.crash[marker.tile , damages , [Leaked_current , Session_new_plane , 'Txt' -> Plain.js]]
 max-key(14 : neum <pico : almo -[dec: 'plane' , Bream:O'-set:Dane,  'Dash-pro' : FORT_DANE: Prince{Row}]>)
-
-     
-                            )]>>
+R.Tusc(kiosk.sll : <SLT : tx.bring(salon.[NLL])>) +PP//#.remember()
+                                 )]>>
 ]
         ]Verency - [Subfuao- [Foutain' : can-cun , remember :  Trx-  [cv: 
 XK_ cavel_CITY : SUB-URBAN, ROUTER-DISTRIBUTORY : [Er :  -> Emergency Room , 'CASUALTY' ,'ASTROPHOBIC' ,'GAVE-O-HABIT': 'Calvin_prices'
@@ -77,6 +76,8 @@ craver-crank ,  juice-c:  X-kitty : kitty-formal :  {FX11}axc - v.com :  l-log.l
 [Break_storm : Born_Silverstar ? recorporated|mass_incorporated ? |Docker_Categorized, Stark-v, H-foundation ,  basic-A [,key_stratfolds]][Scaffolding : Dimensions{TOP|BOTTOM|DEPTH|}]
 [Eigen_hover : Break_dimension [4D  in way , main_stream.inmate()]][XD : time : <Iq.self('String'/buf/n)>]
 [Eigen_count : Vector<Matrix> : Count_way : <Entry : Library>][{$:matrix.chain('Enterprises' , filled , retained , no return ?)}]
+[Vectrix : Eigen(core : en-[base_l: [Rm60 - [Hm(SE://EE)]]])]
+[Poctrix(Rc: lic[~nic.{Bi.-ro : <Cos: 'Erck(Track : 'Sock-on' : Arc('trix' : Cl.vvsl))'>}])] //SLM.VLI
 [Count Session : Session_Long : Buzz_Break : Counter_legislation] - > Bit.registry{
 [Haft-Lest-Peter (PETR:MAG?:No-[plosives(MAERSK :'O-sings' : Firgo : 'MATAM' <MALGO : Gartum>[Still:door<NAT>]ORTHDESK)]SHA)]
 
