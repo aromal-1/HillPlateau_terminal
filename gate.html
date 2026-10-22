@@ -4,9 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Nirvana Centre Gate</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root {
     --night: #1a0f0d;
@@ -26,7 +23,7 @@
     margin: 0;
     background: radial-gradient(ellipse at top, #3a1d17 0%, var(--night) 70%);
     color: var(--paper);
-    font-family: "Noto Serif SC", Georgia, "Songti SC", serif;
+    font-family: "Noto Serif SC", "Noto Serif CJK SC", "Songti SC", "SimSun", Georgia, serif;
     line-height: 1.6;
     min-height: 100vh;
   }
@@ -120,6 +117,11 @@
   .breath { width: 110px; height: 110px; margin: 12px auto; border-radius: 50%; background: var(--jade);
             opacity: 0.8; transform: scale(0.6); transition: transform 4s ease-in-out; }
   .breath.in { transform: scale(1); }
+
+  .store { border-color: var(--ink); }
+  .store h2 { color: var(--ink); }
+  .vow { text-align: center; font-weight: 700; color: var(--red-deep); }
+  .promises { padding-left: 18px; }
 
   footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 24px 0; }
 
@@ -260,17 +262,36 @@
     <p class="note" id="breathText" hidden></p>
 
     <h2>What was said · 言</h2>
-    <p class="note">Keep a reminder of what was said. Reminders persist in this browser until you clear them.</p>
+    <p class="note">Keep a reminder of what was said. Reminders are kept in your private store below, locked with your passphrase.</p>
     <label for="said">Reminder</label>
     <textarea id="said" rows="2" placeholder="what was said, and when"></textarea>
     <div class="actions">
       <button class="ghost" id="saveSaid">Keep reminder</button>
-      <button class="ghost" id="clearSaid">Clear all</button>
     </div>
     <ol class="reminders" id="saidLog"></ol>
   </section>
 
-  <footer>☸ 🏮 🪷 · HillPlateau terminal · all are welcome · ☸ 🏮 🪷</footer>
+  <!-- The private store -->
+  <section class="panel store" id="storePanel">
+    <h2>Private store · 藏</h2>
+    <p class="vow">Privacy is the first rule of this centre. What you fill in here is never collected, covered, or shared anywhere else.</p>
+    <ul class="note promises">
+      <li>Your answers and reminders are locked with a passphrase that only you choose, and kept only in this browser on this device.</li>
+      <li>Nothing is sent to the centre, to this website, to GitHub, or to anyone else. This page has no server to send it to.</li>
+      <li>Without your passphrase, no one can read what is stored, not even the centre. If you lose it, nothing can be recovered.</li>
+      <li>Your location, if you share it, is used once to open the window and is never stored.</li>
+    </ul>
+    <label for="passphrase">Passphrase <small>(at least 8 characters)</small></label>
+    <input id="passphrase" type="password" autocomplete="new-password">
+    <div class="actions">
+      <button id="lockBtn">Lock my answers away</button>
+      <button class="ghost" id="unlockBtn">Unlock</button>
+      <button class="ghost" id="forgetBtn">Forget everything</button>
+    </div>
+    <p class="note" id="storeStatus" aria-live="polite"></p>
+  </section>
+
+  <footer>☸ 🏮 🪷 · HillPlateau terminal · all are welcome · nothing you share here leaves your device · ☸ 🏮 🪷</footer>
 </div>
 
 <script>
@@ -423,21 +444,86 @@
   $("homeBtn").addEventListener("click", goHome);
   $("homeLink").addEventListener("click", function (e) { e.preventDefault(); goHome(); });
 
-  // What was said: persistent reminders
-  var KEY = "nirvana-centre-said";
-  function load() { try { return JSON.parse(localStorage.getItem(KEY)) || []; } catch (e) { return []; } }
-  function save(list) { try { localStorage.setItem(KEY, JSON.stringify(list)); } catch (e) { /* storage blocked */ } }
-  var said = load();
-  function render() {
+  // The private store: answers and reminders, encrypted in this browser only.
+  // AES-GCM with a key derived from the visitor's passphrase (PBKDF2, SHA-256).
+  // Nothing is ever sent over the network.
+  var STORE = "nirvana-centre-store";
+  var FIELDS = ["vName", "vBorn", "vCountry", "vVisa", "vGender", "vRaised"];
+  var said = [];
+  var subtle = window.crypto && window.crypto.subtle;
+  try { localStorage.removeItem("nirvana-centre-said"); } catch (e) { /* earlier unencrypted reminders */ }
+
+  function status(msg) { $("storeStatus").textContent = msg; }
+  function renderSaid() {
     var ol = $("saidLog"); ol.textContent = "";
     said.forEach(function (s) { var li = document.createElement("li"); li.textContent = s; ol.appendChild(li); });
   }
+  function b64(buf) { return btoa(String.fromCharCode.apply(null, new Uint8Array(buf))); }
+  function unb64(s) { return Uint8Array.from(atob(s), function (c) { return c.charCodeAt(0); }); }
+  function deriveKey(pass, salt) {
+    return subtle.importKey("raw", new TextEncoder().encode(pass), "PBKDF2", false, ["deriveKey"])
+      .then(function (base) {
+        return subtle.deriveKey({ name: "PBKDF2", salt: salt, iterations: 310000, hash: "SHA-256" },
+                                base, { name: "AES-GCM", length: 256 }, false, ["encrypt", "decrypt"]);
+      });
+  }
+  function readStore() { try { return JSON.parse(localStorage.getItem(STORE)); } catch (e) { return null; } }
+  function passphrase() {
+    var p = $("passphrase").value;
+    if (p.length < 8) { status("Choose a passphrase of at least 8 characters."); $("passphrase").focus(); return null; }
+    return p;
+  }
+
+  function lock() {
+    if (!subtle) { status("This browser can't encrypt here, so nothing was stored. Open the page over https to use the private store."); return Promise.resolve(false); }
+    var pass = passphrase(); if (!pass) return Promise.resolve(false);
+    var answers = {};
+    FIELDS.forEach(function (id) { answers[id] = $(id).value; });
+    var salt = crypto.getRandomValues(new Uint8Array(16)), iv = crypto.getRandomValues(new Uint8Array(12));
+    var plain = new TextEncoder().encode(JSON.stringify({ answers: answers, said: said }));
+    return deriveKey(pass, salt)
+      .then(function (key) { return subtle.encrypt({ name: "AES-GCM", iv: iv }, key, plain); })
+      .then(function (cipher) {
+        try {
+          localStorage.setItem(STORE, JSON.stringify({ v: 1, salt: b64(salt), iv: b64(iv), data: b64(cipher) }));
+          status("Locked away in this browser. Only your passphrase opens it.");
+          return true;
+        } catch (e) { status("This browser is blocking storage, so nothing was kept."); return false; }
+      });
+  }
+
+  function unlock() {
+    var box = readStore();
+    if (!box) { status("There is nothing in your private store yet."); return; }
+    if (!subtle) { status("This browser can't decrypt here. Open the page over https."); return; }
+    var pass = passphrase(); if (!pass) return;
+    deriveKey(pass, unb64(box.salt))
+      .then(function (key) { return subtle.decrypt({ name: "AES-GCM", iv: unb64(box.iv) }, key, unb64(box.data)); })
+      .then(function (plain) {
+        var found = JSON.parse(new TextDecoder().decode(plain));
+        FIELDS.forEach(function (id) { if (found.answers && id in found.answers) $(id).value = found.answers[id]; });
+        said = found.said || []; renderSaid();
+        status("Unlocked. Your answers are back in the form, and your reminders are listed above.");
+      })
+      .catch(function () { status("That passphrase doesn't open this store."); });
+  }
+
+  $("lockBtn").addEventListener("click", lock);
+  $("unlockBtn").addEventListener("click", unlock);
+  $("forgetBtn").addEventListener("click", function () {
+    try { localStorage.removeItem(STORE); } catch (e) { /* nothing stored */ }
+    said = []; renderSaid(); $("passphrase").value = "";
+    status("Forgotten. Nothing from you is kept in this browser.");
+  });
   $("saveSaid").addEventListener("click", function () {
     var v = $("said").value.trim(); if (!v) return;
-    said.push(new Date().toLocaleString() + ": " + v); save(said); render(); $("said").value = "";
+    said.push(new Date().toLocaleString() + ": " + v);
+    lock().then(function (ok) {
+      if (ok) { renderSaid(); $("said").value = ""; }
+      else { said.pop(); $("storePanel").scrollIntoView({ behavior: "smooth" }); }
+    });
   });
-  $("clearSaid").addEventListener("click", function () { said = []; save(said); render(); });
-  render();
+  if (readStore()) status("You have a locked private store in this browser. Enter your passphrase to unlock it.");
 })();
 </script>
 </body>
