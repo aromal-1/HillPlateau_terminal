@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nirvana Centre Gate</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --night: #1a0f0d;
+    --wall: #2a1714;
+    --red: #b3261e;
+    --red-deep: #7d1a14;
+    --gold: #d9a441;
+    --gold-soft: #f0d28a;
+    --jade: #2f6f5e;
+    --paper: #f6ecd8;
+    --ink: #2b1d14;
+    --muted: #c9b48f;
+    --glow: rgba(255, 170, 60, 0.55);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: radial-gradient(ellipse at top, #3a1d17 0%, var(--night) 70%);
+    color: var(--paper);
+    font-family: "Noto Serif SC", Georgia, "Songti SC", serif;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+  a { color: var(--gold-soft); }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 16px; }
+  header.top { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+  header.top a { font-size: 0.9rem; }
+  h1, h2 { color: var(--gold-soft); font-weight: 700; letter-spacing: 0.04em; }
+  h1 { text-align: center; margin: 8px 0 0; font-size: clamp(1.5rem, 4vw, 2.2rem); }
+  .sub { text-align: center; color: var(--muted); margin: 0 0 8px; }
+
+  /* Temple facade */
+  .temple { position: relative; margin: 8px auto 0; max-width: 640px; }
+  .temple svg { width: 100%; height: auto; display: block; }
+  .lantern { transform-origin: 50% 0; animation: sway 4s ease-in-out infinite; }
+  .lantern:nth-of-type(2) { animation-delay: -2s; }
+  .lantern-glow { animation: flicker 2.6s infinite; }
+  .bulb { animation: twinkle 1.8s infinite; }
+  .bulb:nth-child(3n) { animation-delay: -0.6s; }
+  .bulb:nth-child(3n+1) { animation-delay: -1.2s; }
+  @keyframes sway { 0%, 100% { transform: rotate(-3deg); } 50% { transform: rotate(3deg); } }
+  @keyframes flicker { 0%, 100% { opacity: 0.9; } 40% { opacity: 0.6; } 45% { opacity: 1; } 70% { opacity: 0.75; } }
+  @keyframes twinkle { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+
+  /* The virtual door */
+  .doorway { position: relative; max-width: 360px; margin: -4px auto 0; aspect-ratio: 3 / 3.4;
+             background: radial-gradient(circle at 50% 40%, #ffe7b0 0%, #e9a94d 35%, #5a2a15 100%);
+             border: 10px solid var(--red-deep); border-top-width: 14px; perspective: 900px; overflow: hidden; }
+  .doorway .inside { position: absolute; inset: 0; display: grid; place-items: center; text-align: center;
+                     color: var(--ink); font-size: 1.1rem; padding: 16px; }
+  .leaf { position: absolute; top: 0; bottom: 0; width: 50%; background: var(--red);
+          background-image: radial-gradient(circle, var(--gold) 0 4px, transparent 5px);
+          background-size: 36px 36px; background-position: 9px 9px;
+          border: 3px solid var(--red-deep); transition: transform 1.4s cubic-bezier(.5,.05,.2,1); }
+  .leaf.left { left: 0; transform-origin: left center; }
+  .leaf.right { right: 0; transform-origin: right center; }
+  .leaf::after { content: ""; position: absolute; top: 50%; width: 22px; height: 22px; border-radius: 50%;
+                 border: 4px solid var(--gold); transform: translateY(-50%); }
+  .leaf.left::after { right: 10px; }
+  .leaf.right::after { left: 10px; }
+  .doorway.open .leaf.left { transform: rotateY(-100deg); }
+  .doorway.open .leaf.right { transform: rotateY(100deg); }
+
+  .actions { display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 16px 0; }
+  button, .btn { font: inherit; cursor: pointer; border-radius: 4px; padding: 10px 18px;
+                 border: 2px solid var(--gold); background: var(--red); color: var(--paper); }
+  button.ghost { background: transparent; color: var(--gold-soft); }
+  .panel button.ghost { color: var(--red-deep); border-color: var(--red); }
+  button:hover { filter: brightness(1.15); }
+  button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+    outline: 3px solid var(--gold-soft); outline-offset: 2px; }
+
+  /* Panels */
+  .panel { background: var(--paper); color: var(--ink); border: 3px solid var(--gold);
+           border-radius: 6px; padding: 20px; margin: 20px 0; position: relative; }
+  .panel::before, .panel::after { content: "☸"; position: absolute; top: 6px; color: var(--red); font-size: 1.1rem; }
+  .panel::before { left: 10px; }
+  .panel::after { right: 10px; }
+  .panel h2 { color: var(--red-deep); margin-top: 0; text-align: center; }
+  .panel p.note { color: #6b5640; font-size: 0.9rem; }
+  [hidden] { display: none !important; }
+  label { display: block; font-weight: 700; margin-top: 12px; }
+  label small { font-weight: 400; color: #6b5640; }
+  input, select, textarea { width: 100%; font: inherit; padding: 8px; margin-top: 4px;
+                            border: 1px solid #b89a6a; border-radius: 4px; background: #fffaf0; color: var(--ink); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 0 16px; }
+  @media (max-width: 560px) { .grid2 { grid-template-columns: 1fr; } }
+
+  .inspect-steps { list-style: none; padding: 0; }
+  .inspect-steps li { padding: 4px 0; opacity: 0.25; transition: opacity 0.4s; }
+  .inspect-steps li.done { opacity: 1; }
+  .welcome { text-align: center; font-size: 1.2rem; }
+  .pass { display: inline-block; margin: 8px 0; padding: 6px 14px; border: 2px dashed var(--red);
+          font-family: ui-monospace, monospace; letter-spacing: 0.08em; }
+  .places { padding-left: 0; list-style: none; }
+  .places li { padding: 6px 0; border-bottom: 1px dotted #b89a6a; display: flex; justify-content: space-between; gap: 8px; }
+  .places .kind { color: var(--jade); font-size: 0.85rem; }
+
+  /* Path to Nirvana */
+  .path { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; text-align: center; }
+  @media (max-width: 560px) { .path { grid-template-columns: repeat(3, 1fr); } }
+  .stage { padding: 10px 4px; border: 2px solid #b89a6a; border-radius: 6px; background: #fffaf0; opacity: 0.45; }
+  .stage.reached { opacity: 1; border-color: var(--red); background: #fff1d6; }
+  .stage .sym { font-size: 1.8rem; display: block; color: var(--red); }
+  .stage .han { font-size: 1.2rem; display: block; }
+  .attained { text-align: center; font-size: 1.3rem; color: var(--red-deep); font-weight: 700; }
+
+  .reminders { padding-left: 18px; }
+  .counter { border-color: var(--jade); }
+  .counter h2 { color: var(--jade); }
+  .breath { width: 110px; height: 110px; margin: 12px auto; border-radius: 50%; background: var(--jade);
+            opacity: 0.8; transform: scale(0.6); transition: transform 4s ease-in-out; }
+  .breath.in { transform: scale(1); }
+
+  footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 24px 0; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .lantern, .lantern-glow, .bulb { animation: none; }
+    .leaf, .breath { transition: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <a href="index.html">← Monastery Forum</a>
+    <a href="#home" id="homeLink">Home / Interval</a>
+  </header>
+
+  <h1 id="home">涅槃 · Nirvana Centre</h1>
+  <p class="sub">A gate open to travellers from all around the world. No one is turned away.</p>
+
+  <div class="temple" aria-hidden="true">
+    <svg viewBox="0 0 640 260" role="img">
+      <!-- string of lights along the upper eave -->
+      <g id="lightsTop"></g>
+      <!-- upper roof -->
+      <path d="M150 70 Q320 20 490 70 Q510 70 530 52 Q520 84 490 92 L150 92 Q120 84 110 52 Q130 70 150 70Z" fill="#7d1a14" stroke="#d9a441" stroke-width="3"/>
+      <rect x="205" y="92" width="230" height="34" fill="#b3261e" stroke="#d9a441" stroke-width="2"/>
+      <rect x="262" y="97" width="116" height="24" fill="#1a0f0d" stroke="#d9a441" stroke-width="2"/>
+      <text x="320" y="115" text-anchor="middle" fill="#f0d28a" font-size="16" font-family="Noto Serif SC, serif">涅 槃 中 心</text>
+      <!-- lower roof -->
+      <path d="M90 150 Q320 104 550 150 Q575 150 600 128 Q590 166 552 174 L88 174 Q50 166 40 128 Q65 150 90 150Z" fill="#7d1a14" stroke="#d9a441" stroke-width="3"/>
+      <!-- beam and pillars -->
+      <rect x="130" y="174" width="380" height="16" fill="#d9a441"/>
+      <g id="lightsLow"></g>
+      <rect x="140" y="190" width="26" height="70" fill="#b3261e"/>
+      <rect x="474" y="190" width="26" height="70" fill="#b3261e"/>
+      <!-- lanterns -->
+      <g class="lantern" style="transform-box: fill-box">
+        <line x1="104" y1="174" x2="104" y2="196" stroke="#d9a441" stroke-width="2"/>
+        <ellipse class="lantern-glow" cx="104" cy="214" rx="26" ry="26" fill="rgba(255,170,60,0.35)"/>
+        <ellipse cx="104" cy="214" rx="15" ry="18" fill="#e0402b" stroke="#d9a441" stroke-width="2"/>
+        <text x="104" y="219" text-anchor="middle" font-size="13" fill="#f0d28a">福</text>
+        <line x1="104" y1="232" x2="104" y2="246" stroke="#d9a441" stroke-width="2"/>
+      </g>
+      <g class="lantern" style="transform-box: fill-box">
+        <line x1="536" y1="174" x2="536" y2="196" stroke="#d9a441" stroke-width="2"/>
+        <ellipse class="lantern-glow" cx="536" cy="214" rx="26" ry="26" fill="rgba(255,170,60,0.35)"/>
+        <ellipse cx="536" cy="214" rx="15" ry="18" fill="#e0402b" stroke="#d9a441" stroke-width="2"/>
+        <text x="536" y="219" text-anchor="middle" font-size="13" fill="#f0d28a">安</text>
+        <line x1="536" y1="232" x2="536" y2="246" stroke="#d9a441" stroke-width="2"/>
+      </g>
+    </svg>
+  </div>
+
+  <!-- The virtual door -->
+  <div class="doorway" id="doorway">
+    <div class="inside"><div><span style="font-size:2.4rem">☸</span><br>Welcome to the centre</div></div>
+    <div class="leaf left"></div>
+    <div class="leaf right"></div>
+  </div>
+  <div class="actions">
+    <button id="passIn">Pass in · 入门</button>
+  </div>
+
+  <!-- Inspection: welcoming, never refusing -->
+  <section class="panel" id="inspectPanel" hidden aria-live="polite">
+    <h2>Inspection at the gate · 迎客</h2>
+    <p class="note">Every visitor is admitted. Only your name is needed. Everything else is optional, never decides entry, and stays in this browser.</p>
+    <form id="visitorForm">
+      <label for="vName">Name</label>
+      <input id="vName" required autocomplete="name">
+      <div class="grid2">
+        <div>
+          <label for="vBorn">Born in <small>(optional)</small></label>
+          <input id="vBorn" placeholder="town or region">
+        </div>
+        <div>
+          <label for="vCountry">Country <small>(optional)</small></label>
+          <input id="vCountry" list="countryHints" placeholder="or None, secular">
+          <datalist id="countryHints">
+            <option value="None (secular)"></option>
+            <option value="India"></option><option value="Tibet"></option><option value="Nepal"></option>
+            <option value="Bhutan"></option><option value="Sri Lanka"></option><option value="China"></option>
+          </datalist>
+        </div>
+        <div>
+          <label for="vVisa">Visa state</label>
+          <select id="vVisa">
+            <option>tourist</option><option>citizen</option><option>student</option>
+            <option>refugee</option><option>migrant</option><option>stateless</option>
+            <option selected>prefer not to say</option>
+          </select>
+        </div>
+        <div>
+          <label for="vGender">Gender <small>(optional, in your own words)</small></label>
+          <input id="vGender" placeholder="prefer not to say">
+        </div>
+      </div>
+      <label for="vRaised">Where you were brought up <small>(optional)</small></label>
+      <input id="vRaised" placeholder="places, journeys, or nothing at all">
+      <div class="actions"><button type="submit">Be inspected · 检</button></div>
+    </form>
+    <ul class="inspect-steps" id="steps" hidden>
+      <li>☸ Turning the wheel: every visa state is welcome</li>
+      <li>🏮 Lighting the lanterns: country or no country, all the same</li>
+      <li>🪷 Opening the lotus: nothing you shared is sent anywhere</li>
+      <li>🔔 Ringing the bell: you are admitted</li>
+    </ul>
+  </section>
+
+  <!-- Welcome -->
+  <section class="panel" id="welcomePanel" hidden aria-live="polite">
+    <h2>Welcome to the centre · 欢迎</h2>
+    <div class="welcome">
+      <p id="welcomeText"></p>
+      <div class="pass" id="passId"></div>
+      <p class="note">Your pass for a perpetual visit. There is no fee for a visit.</p>
+    </div>
+    <h2>The window · 窗</h2>
+    <p class="note">Find the nearest monastery, temple, research centre and folk house. Your location is used once, in this browser.</p>
+    <div class="actions"><button class="ghost" id="findNear">Open the window</button></div>
+    <ul class="places" id="places"></ul>
+
+    <h2>Path to Nirvana · 道</h2>
+    <div class="path" id="path"></div>
+    <div class="actions"><button id="nextStage">Take the next step</button></div>
+    <p class="attained" id="attained" hidden>☸ Life attained: Nirvana · 涅槃 ☸</p>
+  </section>
+
+  <!-- Countering ailments -->
+  <section class="panel counter" id="counterPanel">
+    <h2>If someone tries to silence you · 守</h2>
+    <p>If anyone tries to break your faith, or the absence of it, or to make you fall silent, you can always come back here. Take an interval and return home.</p>
+    <div class="actions">
+      <button class="ghost" id="intervalBtn">Take an interval</button>
+      <button id="homeBtn">Return Home</button>
+    </div>
+    <div class="breath" id="breath" hidden></div>
+    <p class="note" id="breathText" hidden></p>
+
+    <h2>What was said · 言</h2>
+    <p class="note">Keep a reminder of what was said. Reminders persist in this browser until you clear them.</p>
+    <label for="said">Reminder</label>
+    <textarea id="said" rows="2" placeholder="what was said, and when"></textarea>
+    <div class="actions">
+      <button class="ghost" id="saveSaid">Keep reminder</button>
+      <button class="ghost" id="clearSaid">Clear all</button>
+    </div>
+    <ol class="reminders" id="saidLog"></ol>
+  </section>
+
+  <footer>☸ 🏮 🪷 · HillPlateau terminal · all are welcome · ☸ 🏮 🪷</footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var $ = function (id) { return document.getElementById(id); };
+
+  // Flash-lights: a string of bulbs along each eave
+  function stringLights(groupId, x1, x2, y, sag) {
+    var g = $(groupId), ns = "http://www.w3.org/2000/svg", n = 14;
+    var colours = ["#ffcf5a", "#ff6b4a", "#7fe0b5", "#ffe9a8"];
+    for (var i = 0; i <= n; i++) {
+      var t = i / n, x = x1 + (x2 - x1) * t, yy = y + Math.sin(Math.PI * t) * sag;
+      var c = document.createElementNS(ns, "circle");
+      c.setAttribute("cx", x); c.setAttribute("cy", yy); c.setAttribute("r", 3.2);
+      c.setAttribute("fill", colours[i % colours.length]); c.setAttribute("class", "bulb");
+      g.appendChild(c);
+    }
+  }
+  stringLights("lightsTop", 150, 490, 96, 6);
+  stringLights("lightsLow", 92, 548, 196, 8);
+
+  // The door
+  $("passIn").addEventListener("click", function () {
+    $("doorway").classList.add("open");
+    $("inspectPanel").hidden = false;
+    $("vName").focus();
+  });
+
+  // Pass id: a short hash, made in the browser
+  function passId(text) {
+    var h = 2166136261;
+    for (var i = 0; i < text.length; i++) { h ^= text.charCodeAt(i); h = Math.imul(h, 16777619); }
+    return "V-" + (h >>> 0).toString(16).toUpperCase().padStart(8, "0");
+  }
+
+  $("visitorForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var name = $("vName").value.trim();
+    if (!name) return;
+    var steps = $("steps").children;
+    $("steps").hidden = false;
+    for (var i = 0; i < steps.length; i++) steps[i].classList.remove("done");
+    var k = 0;
+    var timer = setInterval(function () {
+      steps[k].classList.add("done");
+      k++;
+      if (k === steps.length) {
+        clearInterval(timer);
+        var visa = $("vVisa").value;
+        $("welcomeText").textContent = "Welcome, " + name + ". You are admitted" +
+          (visa === "prefer not to say" ? "." : ", as a " + visa + ", like everyone else.");
+        $("passId").textContent = passId(name + "|" + $("vBorn").value + "|" + $("vCountry").value);
+        $("welcomePanel").hidden = false;
+        $("welcomePanel").scrollIntoView({ behavior: "smooth" });
+      }
+    }, 500);
+  });
+
+  // The window: nearest places (coordinates approximate)
+  var PLACES = [
+    ["Visva-Bharati, Santiniketan", "research centre", 23.68, 87.68],
+    ["Nalanda Mahavihara", "research centre", 25.137, 85.444],
+    ["Library of Tibetan Works and Archives, Dharamshala", "research centre", 32.224, 76.326],
+    ["Mahabodhi Temple, Bodh Gaya", "temple", 24.696, 84.991],
+    ["Dhamek Stupa, Sarnath", "temple", 25.381, 83.024],
+    ["Tsuglagkhang Complex, McLeod Ganj", "temple", 32.233, 76.324],
+    ["Rumtek Monastery, Sikkim", "monastery", 27.288, 88.561],
+    ["Tawang Monastery", "monastery", 27.586, 91.857],
+    ["Hemis Monastery, Ladakh", "monastery", 33.913, 77.703],
+    ["Namdroling Monastery, Bylakuppe", "monastery", 12.43, 75.97],
+    ["Jokhang Temple, Lhasa", "temple", 29.653, 91.132],
+    ["Sera Monastery, Lhasa", "monastery", 29.70, 91.133],
+    ["Boudhanath Stupa, Kathmandu", "temple", 27.721, 85.362],
+    ["Maya Devi Temple, Lumbini", "temple", 27.469, 83.276],
+    ["White Horse Temple, Luoyang", "temple", 34.723, 112.6],
+    ["Shaolin Monastery, Dengfeng", "monastery", 34.507, 112.935],
+    ["Temple of the Sacred Tooth Relic, Kandy", "temple", 7.294, 80.641],
+    ["Raghurajpur Heritage Crafts Village, Odisha", "folk house", 19.85, 85.84],
+    ["Kerala Folklore Museum, Kochi", "folk house", 9.93, 76.30],
+    ["Kagyu Samye Ling, Scotland", "monastery", 55.29, -3.19],
+    ["Plum Village, Dordogne", "monastery", 44.73, 0.43]
+  ];
+  function km(a, b, c, d) {
+    var r = Math.PI / 180, dp = (c - a) * r, dl = (d - b) * r;
+    var x = Math.sin(dp / 2) * Math.sin(dp / 2) + Math.cos(a * r) * Math.cos(c * r) * Math.sin(dl / 2) * Math.sin(dl / 2);
+    return 12742 * Math.asin(Math.sqrt(x));
+  }
+  function showNear(lat, lon) {
+    var ranked = PLACES.map(function (p) { return { p: p, d: km(lat, lon, p[2], p[3]) }; })
+                       .sort(function (a, b) { return a.d - b.d; });
+    var seen = {}, chain = [];
+    ranked.forEach(function (r) { if (!seen[r.p[1]]) { seen[r.p[1]] = 1; chain.push(r); } });
+    ranked.forEach(function (r) { if (chain.length < 6 && chain.indexOf(r) < 0) chain.push(r); });
+    chain.sort(function (a, b) { return a.d - b.d; });
+    var ul = $("places"); ul.textContent = "";
+    chain.forEach(function (r) {
+      var li = document.createElement("li");
+      var name = document.createElement("span"); name.textContent = r.p[0];
+      var meta = document.createElement("span"); meta.className = "kind";
+      meta.textContent = r.p[1] + " · " + Math.round(r.d) + " km";
+      li.appendChild(name); li.appendChild(meta); ul.appendChild(li);
+    });
+  }
+  $("findNear").addEventListener("click", function () {
+    if (!navigator.geolocation) { showNear(23.68, 87.68); return; }
+    navigator.geolocation.getCurrentPosition(
+      function (pos) { showNear(pos.coords.latitude, pos.coords.longitude); },
+      function () { showNear(23.68, 87.68); $("places").insertAdjacentHTML("afterbegin",
+        "<li><em>Location not shared, so the window opens from Santiniketan.</em></li>"); },
+      { timeout: 8000 });
+  });
+
+  // Path to Nirvana
+  var STAGES = [["门", "🚪", "Arrival"], ["安", "🏮", "Rest"], ["法", "☸", "Learning"],
+                ["缘", "🪷", "Sharing"], ["涅槃", "☸", "Nirvana"]];
+  var reached = 0;
+  STAGES.forEach(function (s) {
+    var d = document.createElement("div"); d.className = "stage";
+    d.innerHTML = '<span class="sym"></span><span class="han"></span><span></span>';
+    d.children[0].textContent = s[1]; d.children[1].textContent = s[0]; d.children[2].textContent = s[2];
+    $("path").appendChild(d);
+  });
+  $("nextStage").addEventListener("click", function () {
+    if (reached < STAGES.length) $("path").children[reached++].classList.add("reached");
+    if (reached === STAGES.length) { $("attained").hidden = false; $("nextStage").hidden = true; }
+  });
+
+  // Countering ailments: interval and return home
+  var breathing = null;
+  $("intervalBtn").addEventListener("click", function () {
+    var b = $("breath"), t = $("breathText"), n = 0;
+    b.hidden = false; t.hidden = false;
+    clearInterval(breathing);
+    var tick = function () {
+      var inhale = n % 2 === 0;
+      b.classList.toggle("in", inhale);
+      t.textContent = (inhale ? "Breathe in…" : "Breathe out…") + " (" + (Math.floor(n / 2) + 1) + " of 6)";
+      if (++n > 12) { clearInterval(breathing); t.textContent = "Interval complete. You can return home whenever you're ready."; }
+    };
+    tick(); breathing = setInterval(tick, 4000);
+  });
+  function goHome() {
+    $("doorway").classList.remove("open");
+    $("inspectPanel").hidden = true;
+    $("welcomePanel").hidden = true;
+    $("home").scrollIntoView({ behavior: "smooth" });
+    $("passIn").focus({ preventScroll: true });
+  }
+  $("homeBtn").addEventListener("click", goHome);
+  $("homeLink").addEventListener("click", function (e) { e.preventDefault(); goHome(); });
+
+  // What was said: persistent reminders
+  var KEY = "nirvana-centre-said";
+  function load() { try { return JSON.parse(localStorage.getItem(KEY)) || []; } catch (e) { return []; } }
+  function save(list) { try { localStorage.setItem(KEY, JSON.stringify(list)); } catch (e) { /* storage blocked */ } }
+  var said = load();
+  function render() {
+    var ol = $("saidLog"); ol.textContent = "";
+    said.forEach(function (s) { var li = document.createElement("li"); li.textContent = s; ol.appendChild(li); });
+  }
+  $("saveSaid").addEventListener("click", function () {
+    var v = $("said").value.trim(); if (!v) return;
+    said.push(new Date().toLocaleString() + ": " + v); save(said); render(); $("said").value = "";
+  });
+  $("clearSaid").addEventListener("click", function () { said = []; save(said); render(); });
+  render();
+})();
+</script>
+</body>
+</html>
