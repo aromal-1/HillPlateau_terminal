@@ -38,8 +38,8 @@ Meta-Careers : [mut[u8 ,Formal[BASTILLE}[LEGAL_FRENCH_DELIVERY _> Free_my_pain, 
          ZILKAN | HULKAN.tusk(variators.acc :: Punctuating : Margin : API.rets[0,1 : range(0.001f,lock : 'thickness')] )]]        => [Master-branch : Vulkan {Db.ionize/Assets : Loading(Frame:dep , Object#id)}]
 ]]]VEIKAN]  HAIKUN-TUSK :'Baeskun-fusk' [Tiers-June ://DESK]
 +-{FANUM, #stage_position : attain, spreaders() : [MEETUP|LEAVE] : [ARRIVING|DESTINATION ? ]}
-
-
+[F-Num{'pacakhes' : :<n : Cakeas(paSON-[HOLDER])"}]//rate-on : -pashe: nicky>
+[KK-{E:::[Aen - {]sb256 : [78-6x:X" { xs.steama(ra. { trill :"[ tray]])]>]
 Desk-body :[Cav-c.s :-> space - ,  S- stars :  drs -[..count(daughter 1, daughter 2 . . . . ,n.orphans(-spite-homes, Own_families))
 HINT ://farm
 Lot : <Derm> : //herg-Poly(_ZODEX(..Truckers : vib(s) : muxers))
@@ -71,7 +71,7 @@ Volt = Bolt , Stomach = [Void(..hungry orphans in homes, well-fed but sorrows of
 BT_Tucker-Soft.Inc("Best",'i','duality :  met her, in triumphing retrospaces', 'Transforming Main spaces' ,'Architecting building situation-[disparity : No-Tenacy]')
 Lure_(_ALL_sick) : Soap(A , dop(find ? / G.pay()))
 :[TERENSIC, TOKIO , Drift_ac , drift-velocity , hop.route => () Knowledge_Allocation]
-
+Same.buffer = buffer.location(dead.!local = [rgret: stream'Train'.[#loc:X: :$:Z$"4[]])
 
 craver-crank ,  juice-c:  X-kitty : kitty-formal :  {FX11}axc - v.com :  l-log.login{io-storm. strom[ac, ac- [kc, cd- Braker(CI/python)]]}
 [Break_storm : Born_Silverstar ? recorporated|mass_incorporated ? |Docker_Categorized, Stark-v, H-foundation ,  basic-A [,key_stratfolds]][Scaffolding : Dimensions{TOP|BOTTOM|DEPTH|}]
