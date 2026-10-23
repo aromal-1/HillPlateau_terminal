@@ -1,7 +1,8 @@
 Code Statistics : {
 
-
-     CAPITALIZED : PRINTED-BUY, company
+     Organized : Bunker_['visitors' : orck(trouble, Cutile(..ille : 3-[KOLLAM]))]
+     CAPITALIZED : PRINTED-BUY, company : [manus.lay{[incorporated:d:RON-X: Xd 'gon-nenn()' : NeonD( damp -[m 'err])<]}]
+     S: Copper: 'fids' : :<Bids: 'bit'> : //Sit-oM : [$: #^&@&@&@ : ]
      DYNAMIC: Boston-[core,fred]  : manual{Usb : [
      Recorded: corded :  attics || Mn.matrix(X::man, lamp(blit. : lanes:kp))//pos(curvv(lewtein : kos(pax-[Xhos['remember']]))) : Borsa(lox_per-[ver: ver-ser.vim(dll.nano)])
      ]}
@@ -13,7 +14,7 @@ I.chrome()
 Dermatoid : Julia : facing ->  Alias.simple-made: [ [BARRIER_MADE , FACTS_RESOLUTION , NAME_DIVERSION , EXEMPLIFIED_MEANINGS , SECTIONS_INFO]
   Luthian Vulkan  Arquien : [Forbia , [Arsenci : Karvensci : Barclays :  ClaySand :  lithographer :  square: printer :  glass-cube]],||
                             MASS_form : [Brush, Streak-form :  <former-stage, Outer-stream,Inner-Rave,RAVER_DOOM>] |
-                            Lithoplane [||] : <Cuvetrix : <Cutter [Net-loader : Boot-sync(Pi:Reload:Ai) - > C.F -> Concurrent.rational(
+                            Lithoplane [||] : <Cuvetrix : <Cutter [Net-loade : Boot-sync(Pi:Reload:Ai) - > C.F -> Concurrent.rational(
                             Litho-gain(-thin.laser : 'Safe-dist' : 'Glass_view :'Not-reveal''), No-direct : <frame , skin()>
                             Schotkky : 'low-power'[high-volt] [Seat-beam(ram_coverage , beverages(CO.in))]
                             Hand_Sotex(-nocrypt : #slipt{{'Ground' : 'Den' , 'Ein' , 'crane' , 'O-jone' , 'Hard-pei' , 'maltum-tie'})
@@ -53,7 +54,7 @@ NEXT_BANE : [If-bladed//Counter-selct($:'Moussian-tomet : 'Forgotery 'toml'insca
          [Root-tab :- Game{Lecrol -[croil :vpt(droil : <Fot : [Kt : J-name['SEEN_M' , AJ]]>)]}]
          [Sort-heap : Main-review , Preview-Driven -> [Saved_stats, Saved_arrivals(no, Mins[max -lockerjet, loadash-s : <DB " tuple-a(mod c)>])]]
 MVD : <KLEEN>[Rule-drect(More-tricky) =>  FOX-chorum-im : Basium<Saasiyum : Desiyum> ] , Nagmer-[meipier -suk ; Flesk-desk;]
-         [Menu.pod : pod_[strata, matrix{$ : 'Main-hold'}]]
+         [Menu.pod : pod_[strata, matrix{$ : 'Main-hold'}]] -> [tenure = 'ard'(locals, +11 : Denu_pod(max: 'Sip'-channel(width : Disks :[ sns.[Wr.[rishi]]])))]
          [Chain-selection : <Dependency : S.holds[F, driven [AG]column(i)]>]
          [Chain_break : <Calculate[esc: via(Prod: state, actions = 'immoral')]>] //case1 : Refugee taken as prisoner for country crimes while perpetrators flee/
          [Chord:// break  fiber name tunerpro :- rordac[show , name-error(-.session:login - [menu  expired])]]
