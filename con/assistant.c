@@ -6,13 +6,13 @@ content_set = set_rpm;
 wheel_rm : [ROLL_motors, Generators()]
 
   Transformers_am : [
-       Dm:$esh : EM-dat()
+       Dm:$esh : EM-dat(Venn(G : gram(1, lf : +learn(Kern.nell('picker' , existing grains)))))//Contri - {BIG BASKET}
        Sound_wave : wave_pack()
   ]
 
   Transformer_pm:[
-    am_content : content.cc
-    npx_set: npm
+    am_content : content.cc // pm : mis(d.dd) //Aakarshan{Satellite : Power-tile(..filling : Solar : Sub:)}
+    npx_set: npm : [pm.wind -r(+c: ow)] //npm.catalogs(npm set start values ..NULL +)
     npm_catlaog: log.sesh
   ]
 BM:BLOCK -> 'sermon' -> 'Schedule' -> 'Disparity';
