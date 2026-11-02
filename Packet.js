@@ -19,14 +19,14 @@ Mb-[ al : <z-zone , rememeber(h : > 'brain' , c : > tasks)>] //col-a[kal`lm : : 
                                                           M.fax -[A.innit(`serv : e : <fat32 : ntfs(**speed : load.ms/-soft :: Test)>)]
                                                           
   Eg: correct.a- [!shell , ! terminal : [Innit.rev = bd.[+fit(.cs : <ms.CE> : <W3css. ['*css.d : <'mark_up : Plain `filter'>']>)]
-  DPE : : <`flam. <'kits' + mingo(.dd : .dotnm(fascall : <t.pass(`f.curv` : C : 'Row' : <MTL> : <roc'P_render' : <H>>)>))>> //Soc:-a : <loc.[Boulder-c']>
+  DPE : : <`flam. <'kits' + mingo(.dd : .dotnm(fascall : <t.pass(`f.curv` : C : '++' : <MTL> : <roc'P_render' : <H>>)>))>> //Soc:-a : <loc.[Boulder-c']>
                         
   I ./Dto ['vats' : a :<'v-rap/M -[rag: <g-Graphs(c : 'Dolls' : <Safe,unlock : <'Cloth-ring , ring-line : <POT_FILL>'>>)>]'>]
-  crafts:  [Hand-Maids > HOD, [ , Cde :e <CD.<ch(rv : <senile>)>>
+  crafts:  [Hand-Maids > HOD, [ , Cde :e <CD.<ch(rv : <senile>)>> || fc.pran('loc : <mode : aisle>') //Run-[B : stat(quo* : lot(0m))]
   
-    prof, title: [dr, [
-       Dax-c:  [Fodec:  ,  ep[i- Ic[cassete - [
-    Gram: [.int$ (₹: tr-foddr: , [
+    prof, title: [dr, [pos dnm('curb' : foci(*lod : n-[n_base : lode_in]))
+       Dax-c:  [Fodec:  ,  ep[i- Ic[cassete - [L-call(loc.n : <D:pass(foc(i-//Codons))>)
+    Gram: [.int$ (₹: tr-foddr: , [stat-[fat(mut_32i = quote(u_32 : <fac[XCN_'m-ford']>))]
       =Fr-[fork : end]
     ])]
        ] ]]
