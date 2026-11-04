@@ -1,5 +1,6 @@
 const cur,X
         xi: few, central_cauche: <GHOST,SCRIPT(..X, Z, C, ov-3ds, Effects = 'sync-vaults' {across_china : server-rent = Free})>
+        vi: 'fir' ãdvanced : <ra : 'in stn(a : 'STD'.Dce('Web-walls'))'>
         xi : vue:  vue : portrait: [
   connections : Pol.[F-pam : K- Klogger(90,n8
  M e n a $ p o n g )]
